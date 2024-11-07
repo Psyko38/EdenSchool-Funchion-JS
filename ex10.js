@@ -11,4 +11,4 @@ function maxTroisNombres(a, b, c) {
 		}
 	}
 }
-console.log(maxTroisNombres(3, 7, 5)); // Résultat attendu : 7
+console.log(maxTroisNombres(50, 7, 5)); // Résultat attendu : 7
